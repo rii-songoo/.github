@@ -39,6 +39,10 @@ Consumer Services
 - Digital Transformation
 - Restaurant Support
 
+## LinkedIn
+
+Connect with us on [LinkedIn](https://www.linkedin.com/company/riisongoo).
+
 ---
 
 _This README is maintained by RII Songoo. For more information, visit our website or contact us via the provided phone number and email._
