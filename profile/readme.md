@@ -1,4 +1,4 @@
-# About RII Songoo
+# About [RII Songoo](https://shop.rii-songoo.pw/)
 
 RII Songoo is a meal delivery application that connects users with businesses (small, medium, and large restaurants) and couriers in Burkina Faso. Our mission is to promote small restaurants, which play a significant role in feeding the national population. We provide them with an opportunity to access support and embrace the digital and technological transformation that defines the restaurants of tomorrow.
 
@@ -10,7 +10,7 @@ Download the Rii Songoo application today and experience it for yourself!
 
 RII Songoo is a meal delivery application that connects users with businesses (small, medium, and large restaurants) and couriers in Burkina Faso. Our goal is to uplift small restaurants, which are vital to the nation's population, by providing them with opportunities for support and embracing the new era of digital and technological transformation that shapes the future of restaurants. We ensure that consumer clients have easy access to a quality service that meets their demands through a simple-to-use mobile application for online orders, which is accessible and comes with affordable delivery fees.
 
-Discover the Rii Songoo application and its benefits firsthand!
+Discover the [Rii Songoo application](https://play.google.com/store/apps/details?id=com.lamine22.ecommercemobileapp) and its benefits firsthand!
 
 ## Website
 
@@ -42,6 +42,10 @@ Consumer Services
 ## LinkedIn
 
 Connect with us on [LinkedIn](https://www.linkedin.com/company/riisongoo).
+
+## Mobile App
+
+Download our mobile app on the [Google Play Store](https://play.google.com/store/apps/details?id=com.lamine22.ecommercemobileapp).
 
 ---
 
